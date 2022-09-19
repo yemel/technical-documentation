@@ -3592,5 +3592,24 @@
     - Event Production
     - Land Rental
     - Consulting
+    
+ - name: Creator Market
+  partnerId: 150
+  default_link: mailto:customer@sljp.jp
+  email: customer@sljp.jp
+  image: /images/partners/creatormarket.png
+  description: ケモノ先生 Kemono Sensei, Skins Creator in Japan
+  region: Asia
+  location: Japan
+  languages:
+    - English
+    - Japanese
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - PayPal
+    - Wire Transfer
+  tags:
+    - Wearable Design
 
 
