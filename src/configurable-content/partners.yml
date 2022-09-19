@@ -3593,7 +3593,7 @@
     - Land Rental
     - Consulting
     
- - name: Creator Market
+- name: Creator Market
   partnerId: 150
   default_link: mailto:customer@sljp.jp
   email: customer@sljp.jp
