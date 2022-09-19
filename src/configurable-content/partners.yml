@@ -3612,4 +3612,30 @@
   tags:
     - Wearable Design
 
+- name: Serena Elis
+  partnerId: 151
+  website: https://linktr.ee/serenaelis
+  default_link: https://linktr.ee/serenaelis
+  email: dxs@serenaelis.com
+  twitter: https://mobile.twitter.com/serenaelis_/with_replies
+  instagram: https://www.instagram.com/serenaelis/?hl=en
+  opensea: https://opensea.io/collection/beauty-in-chaos
+  discord: https://discord.com/invite/bE2TKzafkF
+  youtube: https://www.youtube.com/channel/UCihBucF5jvC0WcALSeFMiVA
+  image: /images/partners/serenaelis.png
+  description: Metaverse performances and 3D art.
+  region: North America
+  location: United States
+  languages:
+    - English
+  team_size: Individual
+  payments:
+    - Crypto
+    - Credit Card
+    - Paypal
+    - Wire Transfer
+  pois:
+    - (83,74)
+  tags:
+    - Land Rental
 
