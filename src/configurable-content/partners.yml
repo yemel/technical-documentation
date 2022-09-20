@@ -3639,3 +3639,25 @@
   tags:
     - Land Rental
 
+- name: Cyclopa
+  partnerId: 152
+  default_link: https://discordapp.com/users/606140307746324510 
+  email: singleeyecreations@gmail.com
+  twitter: https://twitter.com/opaaq0
+  discord: https://discordapp.com/users/606140307746324510
+  youtube: https://www.youtube.com/channel/UCwVMrIGS_L8GFsW5AMsxTDQ
+  image: /images/partners/cyclopa.PNG
+  description: Wearable Designer, (Smart) Asset Creator, SDK Architect
+  region: Europe
+  location: Netherlands
+  languages:
+    - English
+  team_size: Individual
+  payments:
+    - Crypto
+  pois:
+    - (-109,-32)
+    - (129,130)
+  tags:
+    - Wearable Design
+    - Architecture
