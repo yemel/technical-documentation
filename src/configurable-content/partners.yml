@@ -3661,3 +3661,24 @@
   tags:
     - Wearable Design
     - Architecture
+    
+- name: AvatarLife
+  partnerId: 153
+  default_link: https://avatarlife.com/
+  website: https://avatarlife.com/
+  email: ggaurav@avatarlife.com
+  twitter: https://twitter.com/AvatarLifeGames
+  discord: https://discord.com/invite/UZehaepHQH
+  image: /images/partners/avatar-life.png
+  description: Arcade games developer for the metaverse
+  region: Asia
+  location: India
+  languages:
+    - English
+  team_size: Medium Size
+  payments:
+    - Crypto
+    - Wire Transfer
+  tags:
+    - Architecture 
+    - Consulting
