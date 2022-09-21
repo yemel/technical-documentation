@@ -3682,3 +3682,29 @@
   tags:
     - Architecture 
     - Consulting
+
+- name: Vult Lab by Kelly Ann Collins
+  partnerId: 154
+  default_link: https://www.vultlab.com/
+  website: https://www.vultlab.com/
+  email: kcollins@vultlab.com
+  twitter: https://twitter.com/itskac
+  linkedin: https://www.linkedin.com/in/itskac/
+  instagram: https://www.instagram.com/itskac/
+  image: /images/partners/vultlab.PNG
+  description: Working At The Intersection Of Web2, Web3 + Social Impact To Help Build A Better World For Everyone, Everywhere.
+  region: North America
+  location: United States
+  languages:
+    - English
+  team_size: Large Studio
+  payments:
+    - Crypto
+    - Wire Transfer
+    - Credit Card
+    - PayPal
+  tags:
+    - Architecture 
+    - Consulting
+    - Wearable Design
+    - Event Production
