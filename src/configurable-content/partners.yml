@@ -3708,3 +3708,22 @@
     - Consulting
     - Wearable Design
     - Event Production
+
+- name: Refraction
+  partnerId: 155
+  default_link: https://twitter.com/RefractionDCL
+  email: gabrielmsmewsuv@outlook.com
+  twitter: https://twitter.com/RefractionDCL
+  youtube: https://www.youtube.com/channel/UCnG_Z90fKRkep9Ppt39iA0w
+  opensea: https://opensea.io/Refraction
+  image: /images/partners/refraction.png
+  description: How do you expand your creative spectrum?
+  region: North America
+  location: United States
+  languages:
+    - English
+  team_size: Individual
+  payments:
+    - Crypto
+  tags:
+    - Wearable Design
