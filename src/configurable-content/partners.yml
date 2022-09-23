@@ -3727,3 +3727,28 @@
     - Crypto
   tags:
     - Wearable Design
+
+- name: DigiFun Dao
+  partnerId: 156
+  default_link: https://digifundao.com/
+  website: https://digifundao.com/
+  email: digifundao@gmail.com
+  twitter: https://twitter.com/momo_digifun
+  instagram: https://www.instagram.com/digifundao/
+  discord: https://discordapp.com/users/875645657464057916
+  image: /images/partners/digifun.PNG
+  description: DigiFun DAO provides creative wearables and have buildings in Metaverse. We are governed in a DAO which can provide brand service with outsourcing price.
+  region: Asia
+  location: China
+  languages:
+    - English
+    - Chinese
+  team_size: Medium Studio
+  payments:
+    - Crypto
+  tags:
+    - Architecture 
+    - Consulting
+    - Wearable Design
+    - Land Rental
+    - Event Production
