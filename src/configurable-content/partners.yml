@@ -3744,6 +3744,8 @@
     - English
     - Chinese
   team_size: Medium Studio
+  pois: 
+    - (18,-66) 
   payments:
     - Crypto
   tags:
