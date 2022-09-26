@@ -3754,3 +3754,55 @@
     - Wearable Design
     - Land Rental
     - Event Production
+    
+- name: MEO
+  partnerId: 157
+  default_link: https://meo.super.site/
+  website: https://meo.super.site/
+  email: meotaiki1992@gmail.com
+  twitter: https://twitter.com/meotaiki
+  instagram: https://www.instagram.com/meotaiki/
+  image: /images/partners/meo.JPG
+  description: Currently operating several businesses related to Metaverse and NFT. We can help with events, space rentals, and brand launches within Metaverse at a low cost.
+  region: Asia
+  location: Hong Kong
+  languages:
+    - English
+    - Japanese
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - Paypal
+    - Credit Card
+  pois:
+    - (144,44)
+    - ( -87,-82)
+  tags:
+    - Wearable Design 
+    - Land Rental
+
+- name: CanvasLand Metaverse Production
+  partnerId: 158
+  default_link: https://canvasland.xyz/
+  website: https://canvasland.xyz/
+  email: info@canvasland.xyz
+  twitter: https://twitter.com/CanvasLandWeb3
+  linkedin: https://www.linkedin.com/company/canvaslandnft/
+  image: /images/partners/canvasland.PNG
+  description: CanvasLand is your Ideal Metaverse Advisory & Production Studio as we provide services that are On Scope - On Time - On Budget
+  region: Asia
+  location: Hong Kong
+  languages:
+    - English
+    - Chinese
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - Wire Transfer
+  pois:
+    - (56,-25)
+  tags:
+    - Consulting 
+    - Architecture
+    - Event Production
+
