@@ -3806,3 +3806,25 @@
     - Architecture
     - Event Production
 
+- name: LUCII
+  partnerId: 158
+  default_link: https://www.lucii.io
+  website: https://www.lucii.io
+  email: info@luciidigital.com
+  twitter: https://twitter.com/LUCII_UV
+  opensea: https://opensea.io/collection/mutantmotos
+  discord: https://discordapp.com/users/816242612528742420
+  image: /images/partners/lucii.jpg
+  description: Fashion focused metaverse integration located in Los Angeles, CA.
+  region: North America
+  location: Los Angeles
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+    - Wire Transfer
+    - Paypal
+    - Credit Card
+  tags:
+    - Wearable Design 
