@@ -3828,3 +3828,26 @@
     - Credit Card
   tags:
     - Wearable Design 
+    
+- name: MOGU
+  partnerId: 160
+  default_link: mailto:qaq.wow.qaq@gmail.com
+  email: qaq.wow.qaq@gmail.com
+  twitter: https://twitter.com/EJOINMOGU
+  discord: https://discordapp.com/users/773233506972205106
+  instagram: https://www.instagram.com/zuiiun/
+  image: /images/mogu.jpg
+  description: Go Safari
+  region: Asia
+  location: China
+  languages:
+    - English
+    - Chinese
+  team_size: Medium Studio
+  payments:
+    - Crypto
+    - Paypal
+  pois:
+    - (80,-70)
+  tags:
+    - Architecture
