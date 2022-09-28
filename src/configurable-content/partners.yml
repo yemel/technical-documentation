@@ -2586,7 +2586,7 @@
   tags:
     - Architecture
 
-- name: Iacob_visuals
+- name: Metafox Crew
   partnerId: 110
   default_link: https://linktr.ee/matteoiacobelli
   website: https://linktr.ee/matteoiacobelli
@@ -2602,7 +2602,7 @@
     - English
     - Italian
     - Spanish
-  team_size: Individual
+  team_size: Small Studio
   pois: 
   payments:
     - Crypto
