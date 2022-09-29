@@ -3830,7 +3830,7 @@
     - Wearable Design 
     
 - name: MOGU
-  partnerId: 160
+  partnerId: 159
   default_link: mailto:qaq.wow.qaq@gmail.com
   email: qaq.wow.qaq@gmail.com
   twitter: https://twitter.com/EJOINMOGU
@@ -3851,3 +3851,105 @@
     - (80,-70)
   tags:
     - Architecture
+
+- name: Metacast
+  partnerId: 160
+  default_link: https://www.linkedin.com/company/metacastagency/ 
+  email: lucasmorgavi@dclmuseum.com
+  linkedin: https://www.linkedin.com/company/metacastagency/
+  image: /images/partners/metacast.PNG
+  description: Decentraland's most trusted Development Agency. We have the comprehensive experience in Metaverse, Web3 and NFT development to help any brand carry out their vision in the digital world. From setting the location and designing, to deployment, engagement and management, we've got you covered. After years of experience we are able to provide Turnkey services to having your brand operating successfully in Decentraland in record time. A true solution to Onboarding in Decentraland.
+  region: Latin America
+  location: Argentina
+  languages:
+    - English
+    - Spanish
+  team_size: Medium Studio
+  payments:
+    - Crypto
+    - Wire Transfer
+  tags:
+    - Architecture 
+    - Consulting
+    - Wearable Design
+    - Land Rental
+    - Event Production
+
+
+- name: Brand New Vision
+  partnerId: 161
+  default_link: https://www.bnv.me/
+  website: https://www.bnv.me/
+  email: metaverse@bnv.me
+  discord: https://discord.com/invite/neZWdZXsZD
+  twitter: https://twitter.com/bnv_me
+  instagram: https://www.instagram.com/bnv.me
+  youtube: https://www.youtube.com/channel/UCPNYoSWtuc6APDllSUNWgQQ
+  opensea: https://opensea.io/collection/bnv
+  linkedin: https://www.linkedin.com/company/brand-new-vision-ltd
+  image: /images/partners/brandnewvision.JPG
+  description: BNV is where fashion meets the metaverse
+  region: Asia
+  location: Hong Kong
+  languages:
+    - English
+    - French
+    - Spanish
+  team_size: Large Studio
+  payments:
+    - Crypto
+    - Wire Transfer
+  tags:
+    - Architecture 
+    - Consulting
+    - Wearable Design
+    - Event Production
+
+
+- name: MetaParty
+  partnerId: 162
+  default_link: https://metaparty.cc/
+  website: https://metaparty.cc/
+  email: metapartydecentral@gmail.com
+  discord: https://discord.com/invite/2Skr3ayxT7
+  twitter: https://twitter.com/MetaPartyDCL
+  youtube: https://www.youtube.com/channel/UC0Xhp5EljN_wE-_iFSyqs6Q?app=desktop
+  opensea: https://opensea.io/collection/cyberstrife
+  linkedin: https://www.linkedin.com/in/meta-party-35996b251/
+  image: /images/partners/metaparty.PNG
+  description: MetaParty host regular events within Decentraland and can create unique experiences for the community to enjoy.
+  region: Europe
+  location: United kingdom
+  languages:
+    - English
+  team_size: Small Studio
+  payments:
+    - Crypto
+  tags:
+    - Architecture 
+    - Wearable Design
+    - Event Production
+
+
+- name: HELM
+  partnerId: 163
+  default_link: https://helm-labs.ch/
+  website: https://helm-labs.ch/
+  email: info@helm-labs.ch
+  twitter: https://twitter.com/Helm_Metaverses
+  linkedin: https://www.linkedin.com/company/helmforthemetaverses/
+  image: /images/partners/helm.JPG
+  description: High-End Labs for the Metaverse helps people and companies invest and express themselves in the metaverses. Our strenght is in bringing the physical world excellence in the virtual worlds.
+  region: Europe
+  location: Switzerland
+  languages:
+    - English
+    - Italian
+  team_size: Medium Studio
+  payments:
+    - Crypto
+    - Wire Transfer
+    - Credit Card
+    - Paypal
+  tags:
+    - Architecture 
